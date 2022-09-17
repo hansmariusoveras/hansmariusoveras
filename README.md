@@ -1,5 +1,5 @@
 # Greetings!
-I study computer science, and wish to take courses in algorithms, low level programming, 3D graphics and  and  My interests include systems programming, graphics and computer architecture, as well as web development. I like to take part in hackathons and game jams. My profile for ludum dare shows some of the games I have made for the over-weekend jams: [Ludum Dare / tarfield](https://ldjam.com/users/tarfield/games).
+I study computer science, and I currently take courses in algorithms, low level programming, 3D graphics and programming languages (paradigms, semantics, models...). My interests include systems programming, graphics and computer architecture, as well as web development. I like to take part in hackathons and game jams. My profile for ludum dare shows some of the games I have made for the over-weekend jams: [Ludum Dare / tarfield](https://ldjam.com/users/tarfield/games).
 
 ## I have done projects in
 * Python
