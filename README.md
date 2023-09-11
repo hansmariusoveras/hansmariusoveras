@@ -17,4 +17,4 @@ models...). My interests include systems programming, graphics and computer arch
 ## I work part time for Orakeltjenesten NTNU
 where I help students with things like connecting to the internet and installing obscure software. In the summer of 2021, I created a [PDF  tool](https://pdf.orakel.ntnu.no/) with a colleague.
 ## and now also for [Ocean Access](https://www.oceanaccess.no/)
-where I work on a backend system for their communication buoy.
+where I work on a backend system for their communication buoy and a nice user control panel to go with it.
