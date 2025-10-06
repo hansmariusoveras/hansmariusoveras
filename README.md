@@ -3,11 +3,7 @@
 I work at Ocean Access on:
 
 * Backend development with Express.js
-* 
 * Frontend development with Svelte
-* 
 * Firmware development for STM32
-* 
 * PCB design
-* 
 * Electronics/software integration
